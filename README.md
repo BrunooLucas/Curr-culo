@@ -8,3 +8,6 @@
  🖥️ Um estudante de programação e brevemente me tornarei um desenvolvedor
  sempre buscando se atualizar sobre o mundo da tecnologia com entusiasmo 
  e muita vontade de apreder e conhecer mais e mais sobre a área da programação.
+
+ Skills 
+  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
