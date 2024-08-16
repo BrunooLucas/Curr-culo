@@ -5,7 +5,7 @@
 <img src= "https://private-user-images.githubusercontent.com/142860742/358420799-e7083cd4-81a6-4b71-ad75-da83864cb6fa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3NjI5MTAsIm5iZiI6MTcyMzc2MjYxMCwicGF0aCI6Ii8xNDI4NjA3NDIvMzU4NDIwNzk5LWU3MDgzY2Q0LTgxYTYtNGI3MS1hZDc1LWRhODM4NjRjYjZmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxNVQyMjU2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYWM3ZmI5ZWY3YTNmNmZkZDZkODEyMjk2ODEwMDJhYjU4MzQ3MmViMmE3Y2FkYWQ1ZTUzNjQxYzA4ZGVkZDMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.MkFO55zps3mEEfg5KlDg-DyREk_7kOr1ksVDA4Xr2iM" width= "400" />
 
 
-# Sobre mim
+# Sobre mim 2
  🖥️ Um estudante de programação e brevemente me tornarei um desenvolvedor
  sempre buscando se atualizar sobre o mundo da tecnologia com entusiasmo 
  e muita vontade de apreder e conhecer mais e mais sobre a área da programação.
