@@ -24,7 +24,7 @@
 
 # Contato
 <div>
-<a href="instagram.com/brun0_escobar" >
+<a href="instagram.com/brun0_Luccas" >
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
